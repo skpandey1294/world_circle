@@ -1,0 +1,16 @@
+.btn-border {
+  margin-left: 10px;
+  background-color: #4472b7 !important;
+  color: #ffffff;
+  border-color: white;
+  outline: none;
+  cursor: pointer;
+}
+
+.bg-lm {
+  background-color: #ffffff;
+}
+
+.bg-dm {
+  background-color: #2b3743;
+}
